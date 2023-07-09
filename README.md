@@ -1,5 +1,5 @@
 #Pagina Web
-https://cv-hinojosamiguelangel.netlify.app/
+https://cv01-hinojosamiguelangel.netlify.app/
 ![image](https://github.com/MiguelAngeloH/cv-digital-online/assets/44765289/71fb485c-adf6-4d6f-84e1-49d5a7009e63)
 
 ![image](https://github.com/MiguelAngeloH/cv-digital-online/assets/44765289/6943ffdb-0083-4ab6-87a2-ae56c4f4bc43)
